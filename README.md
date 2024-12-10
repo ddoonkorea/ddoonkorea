@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=300&section=header&text=SeungJun%20Github&fontSize=90&fontColor=FFFFFF)
-<h2 align="center" style="font-weight: bold;">안녕하세요! 팀의 분위기를 밝히는 유머러스한 개발자 윤승준입니다!</h2>
+<h2 align="center" style="font-weight: bold;">안녕하세요! 끊임없이 노력하는 개발자 윤승준입니다!</h2>
 <h2 align="center" style="font-weight: bold;">⚒️ Skills ⚒️</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=java&logoColor=white" alt="Java Badge" />
