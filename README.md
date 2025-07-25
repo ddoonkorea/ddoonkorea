@@ -3,11 +3,11 @@
 <h2 align="center" style="font-weight: bold;">⚒️ Skills ⚒️</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C Badge" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++ Badge" />
   <img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=java&logoColor=white" alt="Java Badge" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React Badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Badge" />
   <br>
-  <img src="https://img.shields.io/badge/React_Native-007AFF?style=flat-square&logo=react&logoColor=white" alt="React Native Badge" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot Badge" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML Badge" />
 </div>
