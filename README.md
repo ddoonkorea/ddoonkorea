@@ -2,6 +2,7 @@
 <h2 align="center" style="font-weight: bold;">안녕하세요! 끊임없이 노력하는 개발자 윤승준입니다!</h2>
 <h2 align="center" style="font-weight: bold;">⚒️ Skills ⚒️</h2>
 <div align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C Badge" />
   <img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=java&logoColor=white" alt="Java Badge" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React Badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Badge" />
